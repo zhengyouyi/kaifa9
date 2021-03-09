@@ -1,1 +1,2 @@
 public String name="ÍõÎå"
+public Integer age;
